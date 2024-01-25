@@ -13,15 +13,20 @@ div{
     border-radius: 12px;
     width: 700px;
     height: 300px; 
-    margin: 5%;
-    display: flex; */
+    /* margin: 5%; */
+    display: flex; 
+    margin: 10px 25px ;
 }
-
+ 
 .divs{
     display: flex;
 }
 
 .photo{
     /* height: 200px; */
-    width: 300px
+    width: 300px;
+    border: 10px solid black;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px rgb(56, 54, 54);
 }
+
